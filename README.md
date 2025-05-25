@@ -18,6 +18,8 @@ This Flutter app is a technical assignment to replicate the "Home Screen" from t
 
 ## 🔧 Folder Structure
 
+
+```
 lib/
 ├── models/
 │   └── service_model.dart          # Model for service data
@@ -34,6 +36,7 @@ lib/
 │   └── service_card.dart           # UI widget for each service card
 ├── firebase_options.dart           # Firebase auto-generated config
 └── main.dart                       # App entry point
+```
 
 
 ---
