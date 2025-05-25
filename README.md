@@ -20,20 +20,21 @@ This Flutter app is a technical assignment to replicate the "Home Screen" from t
 
 lib/
 ├── models/
-│ └── service_model.dart # Model for service data
+│   └── service_model.dart          # Model for service data
 ├── repository/
-│ └── service_repository.dart # Firestore interaction logic
+│   └── service_repository.dart     # Firestore interaction logic
 ├── screens/
-│ ├── detail_screen.dart # Detail view for service card
-│ └── home_screen.dart # Main HomeScreen (UI + ViewModel access)
+│   ├── detail_screen.dart          # Detail view for service card
+│   └── home_screen.dart            # Main HomeScreen (UI + ViewModel access)
 ├── view_models/
-│ └── service_view_model.dart # ViewModel for managing state
+│   └── service_view_model.dart     # ViewModel for managing state
 ├── widgets/
-│ ├── bottomNavBar.dart # Reusable bottom navigation bar
-│ ├── hero_section.dart # Top banner UI
-│ └── service_card.dart # UI widget for each service card
-├── firebase_options.dart # Firebase auto-generated config
-└── main.dart # App entry point
+│   ├── bottomNavBar.dart           # Reusable bottom navigation bar
+│   ├── hero_section.dart           # Top banner UI
+│   └── service_card.dart           # UI widget for each service card
+├── firebase_options.dart           # Firebase auto-generated config
+└── main.dart                       # App entry point
+
 
 ---
 
