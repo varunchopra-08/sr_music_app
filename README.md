@@ -74,7 +74,10 @@ Ensure Firebase is correctly initialized (main.dart is configured).
 Run the app on an emulator or physical device.
 
 📹 Screen Recording
-(https://drive.google.com/file/d/1QGbo1LSrBrAXnJhv9OCRq6c3jaXNGBYk/view?usp=sharing)
+Mobile 1:(https://drive.google.com/file/d/1QGbo1LSrBrAXnJhv9OCRq6c3jaXNGBYk/view?usp=sharing)
+Mobile 2:(https://drive.google.com/file/d/1OSA4l66434ODI0lVk6xliK1P0fHH9l8a/view?usp=drivesdk)
+
+
 
 
 🧑‍💻 Author
