@@ -81,5 +81,5 @@ Mobile 2:(https://drive.google.com/file/d/1OSA4l66434ODI0lVk6xliK1P0fHH9l8a/view
 
 
 🧑‍💻 Author
-Your Name – Varun Chopra
+Name – Varun Chopra
 https://www.linkedin.com/in/varun-chopra08/
