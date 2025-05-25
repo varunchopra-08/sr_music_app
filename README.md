@@ -63,7 +63,7 @@ dependencies:
   provider: ^6.1.0
   cloud_firestore: ^4.9.0
   firebase_core: ^2.25.4
-
+````
 ▶️ How to Run
 Clone the repo.
 
@@ -74,8 +74,8 @@ Ensure Firebase is correctly initialized (main.dart is configured).
 Run the app on an emulator or physical device.
 
 📹 Screen Recording
-https://your-link-to-recording.com
-(Attach a Google Drive or Loom recording showing the app launch, loading service cards, and navigating on tap.)
+(https://drive.google.com/file/d/1QGbo1LSrBrAXnJhv9OCRq6c3jaXNGBYk/view?usp=sharing)
+
 
 🧑‍💻 Author
 Your Name – Varun Chopra
