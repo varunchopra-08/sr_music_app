@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096672055025",
+    "project_id": "sr-music-app",
+    "storage_bucket": "sr-music-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096672055025:android:222a0caf6a5a163432a350",
+        "android_client_info": {
+          "package_name": "com.example.sr_music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJ_vnmSHaQd5z8gHjNkMCfbLeNEskxyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
